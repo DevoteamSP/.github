@@ -2,12 +2,12 @@
 
 ## Data Product Studio
 
-dp
-dp_platforms
+- dp
+- dp_platforms
 
 ## Snowflake Intelligence Studio
 
-si_rules
-si_loccitane
-si_rexel
+- si_rules
+- si_loccitane
+- si_rexel
 

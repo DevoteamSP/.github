@@ -12,6 +12,7 @@ What: Streamlit App
 # Other (private) projects
 
 See [here](https://github.com/DevoteamSP/doc/blob/main/README.md)
+
 ---
 
 Stay tuned for further releases

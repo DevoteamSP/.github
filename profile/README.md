@@ -11,4 +11,4 @@ What: Streamlit App
  
 ---
 
-Stay tuned for further released
+Stay tuned for further releases

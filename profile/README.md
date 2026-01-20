@@ -9,6 +9,10 @@ This is the list of public projects
 Why: Get your snowflake most expensive SQL queries + Claude optimizations recommendations 
 What: Streamlit App
 
+# Publications
+
+See [here](https://github.com/DevoteamSP/public/)
+
 # Other (private) projects
 
 See [here](https://github.com/DevoteamSP/doc/blob/main/README.md)

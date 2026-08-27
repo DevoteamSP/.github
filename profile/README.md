@@ -8,7 +8,7 @@ This is the list of public projects
 
 ## Why
 
-CoCo may be useful for business user
+CoCo may be useful for business users, not only developers
 
 ## What
 

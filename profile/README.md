@@ -4,10 +4,10 @@ Welcome here, you will find our work dedicated to Snowflake !
 
 This is the list of public projects
 
-# Finop
+# streamlit-coco
 
-Why: Get your snowflake most expensive SQL queries + Claude optimizations recommendations 
-What: Streamlit App
+Why: CoCo may be useful for business user
+What: Put Snowflake CoCo into your streamlit application
 
 # Publications
 

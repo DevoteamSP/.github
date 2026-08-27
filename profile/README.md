@@ -8,6 +8,7 @@ This is the list of public projects
 
 Why: CoCo may be useful for business user
 What: Put Snowflake CoCo into your streamlit application
+Where: [here](https://github.com/DevoteamSP/streamlit-coco/) and on [pypi](https://pypi.org/project/streamlit-coco/)
 
 # Publications
 
